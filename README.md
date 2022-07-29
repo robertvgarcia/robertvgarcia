@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I'm Robert Garcia 👋
+
+I'm an aspiring software engineer, currently participating in Hack Reactor's coding bootcamp.
+
+I learned to code through The Last Mile's Code.7370 program while incarcerated.
 
 <!--
 **robertvgarcia/robertvgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
