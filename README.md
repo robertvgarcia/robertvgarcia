@@ -13,5 +13,5 @@
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I like to play and study chess, code, cook, and exercise.
+- ⚡ Fun fact: I like to study and play chess, code, cook, and exercise.
 
