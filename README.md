@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on projects that help at-risk youth.
 
-- 🤔 I’m looking for help with succeeding to become a confident software engineer.
+- 🤔 I’m looking for any assistance that will further my goal of becoming a confident software engineer.
 
 <!-- - 💬 Ask me about  -->
 
